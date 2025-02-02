@@ -10,9 +10,9 @@ class Detector(ADetector):
 
 
         for user in session_data.users:
+            user_posts = [post for post in session_data.posts if post['user_id'] == post['author_id']]
             features = {"post_repetition" : self._check_post_repetition(user_posts)}
 
-            user_posts = [post for post in session_data.posts if post['user_id'] == post['author_id']]
             confidence = features["post_repetition"] * 100
             is_bot = confidence > 40
             
