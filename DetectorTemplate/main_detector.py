@@ -15,7 +15,7 @@ import json
 # code_max_time = int(os.getenv('MAX_TIME'))
 
 # Testing Environment Variables
-session_id = 2
+session_id = 10
 code_max_time = 3601
 
 logging.basicConfig(
@@ -88,7 +88,12 @@ try:
     # Print the response
     logging.info(f"Detection Submission repsonse status code: {submission_confirmation.status_code}")
     print("Detection Submission repsonse status code:", submission_confirmation.status_code)
-    #print("Detection Submission response content:", json.dumps(submission_confirmation.json(), indent=4))
+    # print("Detection Submission response content:", json.dumps(submission_confirmation.json(), indent=4))
+    content_pydict = submission_confirmation.json() # Extract JSON content from the response object
+    response_json = json.dumps(content_pydict, indent=4)
+    with open('test_result.json', 'w') as f:
+        f.write(response_json)
+
 
     signal.alarm(0)
     logging.info(f"END SESSION {session_id}")

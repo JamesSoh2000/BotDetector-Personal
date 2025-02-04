@@ -1,0 +1,2646 @@
+{
+    "session_id": 100100010,
+    "score": 0,
+    "time_stamp": 1738654543421,
+    "detector_team": {
+        "id": "41",
+        "name": "hyeonmindetector1",
+        "password": "1234",
+        "phone": "+14389787532",
+        "score": 0,
+        "type": "detector",
+        "email": "hyeonmin.soh@mail.mcgill.ca",
+        "active": true
+    },
+    "detections": [
+        {
+            "user_id": "495af83b-75dd-46a0-9b05-764a10197b86",
+            "confidence": 100,
+            "bot": true,
+            "id": "144782"
+        },
+        {
+            "user_id": "0734da6f-7385-40db-b908-b1f4a740f300",
+            "confidence": 100,
+            "bot": true,
+            "id": "144783"
+        },
+        {
+            "user_id": "990bb18c-0c91-4914-828d-035e5605dd81",
+            "confidence": 100,
+            "bot": true,
+            "id": "144784"
+        },
+        {
+            "user_id": "ca7586a7-9471-43d9-89c0-d5981f321bac",
+            "confidence": 100,
+            "bot": true,
+            "id": "144785"
+        },
+        {
+            "user_id": "3e67ae79-27b3-491f-990b-60ed2337d9de",
+            "confidence": 100,
+            "bot": true,
+            "id": "144786"
+        },
+        {
+            "user_id": "f380e525-8cfa-4f1e-a562-a7738e9d9213",
+            "confidence": 100,
+            "bot": true,
+            "id": "144787"
+        },
+        {
+            "user_id": "c87f5f7b-5fdb-489c-80b6-d55f38f41b77",
+            "confidence": 100,
+            "bot": true,
+            "id": "144788"
+        },
+        {
+            "user_id": "bb9442cf-dd4d-495a-a386-1e928acb319d",
+            "confidence": 100,
+            "bot": true,
+            "id": "144789"
+        },
+        {
+            "user_id": "cd3206c5-ca3b-4d9a-9844-f1b75cd36e03",
+            "confidence": 100,
+            "bot": true,
+            "id": "144790"
+        },
+        {
+            "user_id": "5c126ad4-e889-4b54-8d5c-9002c3dc1128",
+            "confidence": 100,
+            "bot": true,
+            "id": "144791"
+        },
+        {
+            "user_id": "9e23072f-5b9e-4fea-a7a4-1c7277c8b478",
+            "confidence": 100,
+            "bot": true,
+            "id": "144792"
+        },
+        {
+            "user_id": "8fb69d49-f598-4e0c-beb0-7dda4f1af10d",
+            "confidence": 100,
+            "bot": true,
+            "id": "144793"
+        },
+        {
+            "user_id": "3d97896b-2228-4b53-a314-06d429b14b96",
+            "confidence": 100,
+            "bot": true,
+            "id": "144794"
+        },
+        {
+            "user_id": "6fdf5e64-0362-4fa8-a246-8b9803e71dee",
+            "confidence": 100,
+            "bot": true,
+            "id": "144795"
+        },
+        {
+            "user_id": "3a7d40b7-2a20-4894-9f94-a71fd6be2727",
+            "confidence": 100,
+            "bot": true,
+            "id": "144796"
+        },
+        {
+            "user_id": "c7e18777-42a8-46ed-bf6b-dadf6a7fdc4c",
+            "confidence": 100,
+            "bot": true,
+            "id": "144797"
+        },
+        {
+            "user_id": "80fb2801-09a6-428b-80a3-f586a455dca4",
+            "confidence": 100,
+            "bot": true,
+            "id": "144798"
+        },
+        {
+            "user_id": "43b91528-4bb9-45d3-96b1-efb59a4ab3e0",
+            "confidence": 100,
+            "bot": true,
+            "id": "144799"
+        },
+        {
+            "user_id": "b18998ef-7b49-46c3-8f38-52c72cbc811b",
+            "confidence": 100,
+            "bot": true,
+            "id": "144800"
+        },
+        {
+            "user_id": "6dddeaf1-2e8b-463b-a6b0-229236f5eb44",
+            "confidence": 100,
+            "bot": true,
+            "id": "144801"
+        },
+        {
+            "user_id": "1e8ea562-0ba2-4fc6-be8a-958736acbf8b",
+            "confidence": 100,
+            "bot": true,
+            "id": "144802"
+        },
+        {
+            "user_id": "1208185758638583815",
+            "confidence": 100,
+            "bot": true,
+            "id": "144803"
+        },
+        {
+            "user_id": "311497922",
+            "confidence": 100,
+            "bot": true,
+            "id": "144804"
+        },
+        {
+            "user_id": "1723890774234832896",
+            "confidence": 100,
+            "bot": true,
+            "id": "144805"
+        },
+        {
+            "user_id": "294437465",
+            "confidence": 100,
+            "bot": true,
+            "id": "144806"
+        },
+        {
+            "user_id": "26120165",
+            "confidence": 100,
+            "bot": true,
+            "id": "144807"
+        },
+        {
+            "user_id": "1518278009186181120",
+            "confidence": 100,
+            "bot": true,
+            "id": "144808"
+        },
+        {
+            "user_id": "1580226946465759232",
+            "confidence": 100,
+            "bot": true,
+            "id": "144809"
+        },
+        {
+            "user_id": "3115562810",
+            "confidence": 100,
+            "bot": true,
+            "id": "144810"
+        },
+        {
+            "user_id": "1486058681561235456",
+            "confidence": 100,
+            "bot": true,
+            "id": "144811"
+        },
+        {
+            "user_id": "1698078516875776000",
+            "confidence": 100,
+            "bot": true,
+            "id": "144812"
+        },
+        {
+            "user_id": "30977631",
+            "confidence": 100,
+            "bot": true,
+            "id": "144813"
+        },
+        {
+            "user_id": "1695727068309241856",
+            "confidence": 100,
+            "bot": true,
+            "id": "144814"
+        },
+        {
+            "user_id": "1261125968216731648",
+            "confidence": 100,
+            "bot": true,
+            "id": "144815"
+        },
+        {
+            "user_id": "119266086",
+            "confidence": 100,
+            "bot": true,
+            "id": "144816"
+        },
+        {
+            "user_id": "1764844769463926784",
+            "confidence": 100,
+            "bot": true,
+            "id": "144817"
+        },
+        {
+            "user_id": "1613751630180265985",
+            "confidence": 100,
+            "bot": true,
+            "id": "144818"
+        },
+        {
+            "user_id": "956616084559409152",
+            "confidence": 100,
+            "bot": true,
+            "id": "144819"
+        },
+        {
+            "user_id": "1433367891206942723",
+            "confidence": 100,
+            "bot": true,
+            "id": "144820"
+        },
+        {
+            "user_id": "1663212708785790978",
+            "confidence": 100,
+            "bot": true,
+            "id": "144821"
+        },
+        {
+            "user_id": "811559582",
+            "confidence": 100,
+            "bot": true,
+            "id": "144822"
+        },
+        {
+            "user_id": "1619057167247593478",
+            "confidence": 100,
+            "bot": true,
+            "id": "144823"
+        },
+        {
+            "user_id": "50963959",
+            "confidence": 100,
+            "bot": true,
+            "id": "144824"
+        },
+        {
+            "user_id": "402142657",
+            "confidence": 100,
+            "bot": true,
+            "id": "144825"
+        },
+        {
+            "user_id": "1224503984389529600",
+            "confidence": 100,
+            "bot": true,
+            "id": "144826"
+        },
+        {
+            "user_id": "1755988721063677952",
+            "confidence": 100,
+            "bot": true,
+            "id": "144827"
+        },
+        {
+            "user_id": "1439041822618230786",
+            "confidence": 100,
+            "bot": true,
+            "id": "144828"
+        },
+        {
+            "user_id": "1532590214228717574",
+            "confidence": 100,
+            "bot": true,
+            "id": "144829"
+        },
+        {
+            "user_id": "115855347",
+            "confidence": 100,
+            "bot": true,
+            "id": "144830"
+        },
+        {
+            "user_id": "1357806020379115521",
+            "confidence": 100,
+            "bot": true,
+            "id": "144831"
+        },
+        {
+            "user_id": "1079312572996825088",
+            "confidence": 100,
+            "bot": true,
+            "id": "144832"
+        },
+        {
+            "user_id": "1265899495671373825",
+            "confidence": 100,
+            "bot": true,
+            "id": "144833"
+        },
+        {
+            "user_id": "1676402784281698304",
+            "confidence": 100,
+            "bot": true,
+            "id": "144834"
+        },
+        {
+            "user_id": "42475074",
+            "confidence": 100,
+            "bot": true,
+            "id": "144835"
+        },
+        {
+            "user_id": "1307857574503624705",
+            "confidence": 100,
+            "bot": true,
+            "id": "144836"
+        },
+        {
+            "user_id": "1178208042053181443",
+            "confidence": 100,
+            "bot": true,
+            "id": "144837"
+        },
+        {
+            "user_id": "1649105909463777290",
+            "confidence": 100,
+            "bot": true,
+            "id": "144838"
+        },
+        {
+            "user_id": "1191759347287838720",
+            "confidence": 100,
+            "bot": true,
+            "id": "144839"
+        },
+        {
+            "user_id": "430402402",
+            "confidence": 100,
+            "bot": true,
+            "id": "144840"
+        },
+        {
+            "user_id": "1474929419219312645",
+            "confidence": 100,
+            "bot": true,
+            "id": "144841"
+        },
+        {
+            "user_id": "1567131557499920385",
+            "confidence": 100,
+            "bot": true,
+            "id": "144842"
+        },
+        {
+            "user_id": "953023664626307074",
+            "confidence": 100,
+            "bot": true,
+            "id": "144843"
+        },
+        {
+            "user_id": "1638751018010963970",
+            "confidence": 100,
+            "bot": true,
+            "id": "144844"
+        },
+        {
+            "user_id": "951959087209762816",
+            "confidence": 100,
+            "bot": true,
+            "id": "144845"
+        },
+        {
+            "user_id": "580563852",
+            "confidence": 100,
+            "bot": true,
+            "id": "144846"
+        },
+        {
+            "user_id": "1647504753612697601",
+            "confidence": 100,
+            "bot": true,
+            "id": "144847"
+        },
+        {
+            "user_id": "1264048854678286337",
+            "confidence": 100,
+            "bot": true,
+            "id": "144848"
+        },
+        {
+            "user_id": "1598506143147597827",
+            "confidence": 100,
+            "bot": true,
+            "id": "144849"
+        },
+        {
+            "user_id": "1694421395386646528",
+            "confidence": 100,
+            "bot": true,
+            "id": "144850"
+        },
+        {
+            "user_id": "1874124727",
+            "confidence": 100,
+            "bot": true,
+            "id": "144851"
+        },
+        {
+            "user_id": "1677143125519728644",
+            "confidence": 100,
+            "bot": true,
+            "id": "144852"
+        },
+        {
+            "user_id": "1666108719040548866",
+            "confidence": 100,
+            "bot": true,
+            "id": "144853"
+        },
+        {
+            "user_id": "972982132548292609",
+            "confidence": 100,
+            "bot": true,
+            "id": "144854"
+        },
+        {
+            "user_id": "1729449296679047168",
+            "confidence": 100,
+            "bot": true,
+            "id": "144855"
+        },
+        {
+            "user_id": "1246482539440635910",
+            "confidence": 100,
+            "bot": true,
+            "id": "144856"
+        },
+        {
+            "user_id": "1330932343155077122",
+            "confidence": 100,
+            "bot": true,
+            "id": "144857"
+        },
+        {
+            "user_id": "1224359795823730689",
+            "confidence": 100,
+            "bot": true,
+            "id": "144858"
+        },
+        {
+            "user_id": "1463942848810827783",
+            "confidence": 100,
+            "bot": true,
+            "id": "144859"
+        },
+        {
+            "user_id": "1406608125281587205",
+            "confidence": 100,
+            "bot": true,
+            "id": "144860"
+        },
+        {
+            "user_id": "1240795740",
+            "confidence": 100,
+            "bot": true,
+            "id": "144861"
+        },
+        {
+            "user_id": "1429653067780268039",
+            "confidence": 100,
+            "bot": true,
+            "id": "144862"
+        },
+        {
+            "user_id": "1380145336816173059",
+            "confidence": 100,
+            "bot": true,
+            "id": "144863"
+        },
+        {
+            "user_id": "2986134178",
+            "confidence": 100,
+            "bot": true,
+            "id": "144864"
+        },
+        {
+            "user_id": "1381621975177687046",
+            "confidence": 100,
+            "bot": true,
+            "id": "144865"
+        },
+        {
+            "user_id": "2764833361",
+            "confidence": 100,
+            "bot": true,
+            "id": "144866"
+        },
+        {
+            "user_id": "1238671957597589504",
+            "confidence": 100,
+            "bot": true,
+            "id": "144867"
+        },
+        {
+            "user_id": "1254242812700299266",
+            "confidence": 100,
+            "bot": true,
+            "id": "144868"
+        },
+        {
+            "user_id": "1596322773999259648",
+            "confidence": 100,
+            "bot": true,
+            "id": "144869"
+        },
+        {
+            "user_id": "118028461",
+            "confidence": 100,
+            "bot": true,
+            "id": "144870"
+        },
+        {
+            "user_id": "3031942210",
+            "confidence": 100,
+            "bot": true,
+            "id": "144871"
+        },
+        {
+            "user_id": "1419791419078848514",
+            "confidence": 100,
+            "bot": true,
+            "id": "144872"
+        },
+        {
+            "user_id": "88810599",
+            "confidence": 100,
+            "bot": true,
+            "id": "144873"
+        },
+        {
+            "user_id": "1431733723209240576",
+            "confidence": 100,
+            "bot": true,
+            "id": "144874"
+        },
+        {
+            "user_id": "258409805",
+            "confidence": 100,
+            "bot": true,
+            "id": "144875"
+        },
+        {
+            "user_id": "1212381921176518657",
+            "confidence": 100,
+            "bot": true,
+            "id": "144876"
+        },
+        {
+            "user_id": "1710007895868469248",
+            "confidence": 100,
+            "bot": true,
+            "id": "144877"
+        },
+        {
+            "user_id": "1586608012449517570",
+            "confidence": 100,
+            "bot": true,
+            "id": "144878"
+        },
+        {
+            "user_id": "1760166078221590528",
+            "confidence": 100,
+            "bot": true,
+            "id": "144879"
+        },
+        {
+            "user_id": "1616964862390800385",
+            "confidence": 100,
+            "bot": true,
+            "id": "144880"
+        },
+        {
+            "user_id": "1276669479892717568",
+            "confidence": 100,
+            "bot": true,
+            "id": "144881"
+        },
+        {
+            "user_id": "2349058622",
+            "confidence": 100,
+            "bot": true,
+            "id": "144882"
+        },
+        {
+            "user_id": "242602994",
+            "confidence": 100,
+            "bot": true,
+            "id": "144883"
+        },
+        {
+            "user_id": "1619205574889013248",
+            "confidence": 100,
+            "bot": true,
+            "id": "144884"
+        },
+        {
+            "user_id": "1342708099086479361",
+            "confidence": 100,
+            "bot": true,
+            "id": "144885"
+        },
+        {
+            "user_id": "1764036624462270464",
+            "confidence": 100,
+            "bot": true,
+            "id": "144886"
+        },
+        {
+            "user_id": "1374882907634823175",
+            "confidence": 100,
+            "bot": true,
+            "id": "144887"
+        },
+        {
+            "user_id": "2828274584",
+            "confidence": 100,
+            "bot": true,
+            "id": "144888"
+        },
+        {
+            "user_id": "1469807531962871812",
+            "confidence": 100,
+            "bot": true,
+            "id": "144889"
+        },
+        {
+            "user_id": "1442932169547173888",
+            "confidence": 100,
+            "bot": true,
+            "id": "144890"
+        },
+        {
+            "user_id": "1674895419841576969",
+            "confidence": 100,
+            "bot": true,
+            "id": "144891"
+        },
+        {
+            "user_id": "532819897",
+            "confidence": 100,
+            "bot": true,
+            "id": "144892"
+        },
+        {
+            "user_id": "1722627769186856960",
+            "confidence": 100,
+            "bot": true,
+            "id": "144893"
+        },
+        {
+            "user_id": "1569893360479129600",
+            "confidence": 100,
+            "bot": true,
+            "id": "144894"
+        },
+        {
+            "user_id": "1105317865354391552",
+            "confidence": 100,
+            "bot": true,
+            "id": "144895"
+        },
+        {
+            "user_id": "912404345173479424",
+            "confidence": 100,
+            "bot": true,
+            "id": "144896"
+        },
+        {
+            "user_id": "94470362",
+            "confidence": 100,
+            "bot": true,
+            "id": "144897"
+        },
+        {
+            "user_id": "167780925",
+            "confidence": 100,
+            "bot": true,
+            "id": "144898"
+        },
+        {
+            "user_id": "809581268207706113",
+            "confidence": 100,
+            "bot": true,
+            "id": "144899"
+        },
+        {
+            "user_id": "1233151813634928641",
+            "confidence": 100,
+            "bot": true,
+            "id": "144900"
+        },
+        {
+            "user_id": "233693811",
+            "confidence": 100,
+            "bot": true,
+            "id": "144901"
+        },
+        {
+            "user_id": "1106394140244361217",
+            "confidence": 100,
+            "bot": true,
+            "id": "144902"
+        },
+        {
+            "user_id": "1161920736895950849",
+            "confidence": 100,
+            "bot": true,
+            "id": "144903"
+        },
+        {
+            "user_id": "1746856369100054530",
+            "confidence": 100,
+            "bot": true,
+            "id": "144904"
+        },
+        {
+            "user_id": "802597919983595520",
+            "confidence": 100,
+            "bot": true,
+            "id": "144905"
+        },
+        {
+            "user_id": "1511097375649107970",
+            "confidence": 100,
+            "bot": true,
+            "id": "144906"
+        },
+        {
+            "user_id": "401513227",
+            "confidence": 100,
+            "bot": true,
+            "id": "144907"
+        },
+        {
+            "user_id": "1573572656",
+            "confidence": 100,
+            "bot": true,
+            "id": "144908"
+        },
+        {
+            "user_id": "1146848329193541633",
+            "confidence": 100,
+            "bot": true,
+            "id": "144909"
+        },
+        {
+            "user_id": "1416163516352970760",
+            "confidence": 100,
+            "bot": true,
+            "id": "144910"
+        },
+        {
+            "user_id": "69012456",
+            "confidence": 100,
+            "bot": true,
+            "id": "144911"
+        },
+        {
+            "user_id": "1417483418191990795",
+            "confidence": 100,
+            "bot": true,
+            "id": "144912"
+        },
+        {
+            "user_id": "908346007049560064",
+            "confidence": 100,
+            "bot": true,
+            "id": "144913"
+        },
+        {
+            "user_id": "2842569348",
+            "confidence": 100,
+            "bot": true,
+            "id": "144914"
+        },
+        {
+            "user_id": "1641323713923514374",
+            "confidence": 100,
+            "bot": true,
+            "id": "144915"
+        },
+        {
+            "user_id": "1768195275670110208",
+            "confidence": 100,
+            "bot": true,
+            "id": "144916"
+        },
+        {
+            "user_id": "1213079897834262529",
+            "confidence": 100,
+            "bot": true,
+            "id": "144917"
+        },
+        {
+            "user_id": "1675367177728282626",
+            "confidence": 100,
+            "bot": true,
+            "id": "144918"
+        },
+        {
+            "user_id": "1743640577013334017",
+            "confidence": 100,
+            "bot": true,
+            "id": "144919"
+        },
+        {
+            "user_id": "904772311752089600",
+            "confidence": 100,
+            "bot": true,
+            "id": "144920"
+        },
+        {
+            "user_id": "1007466475655794688",
+            "confidence": 100,
+            "bot": true,
+            "id": "144921"
+        },
+        {
+            "user_id": "1386760797037154307",
+            "confidence": 100,
+            "bot": true,
+            "id": "144922"
+        },
+        {
+            "user_id": "1668770089",
+            "confidence": 100,
+            "bot": true,
+            "id": "144923"
+        },
+        {
+            "user_id": "440372560",
+            "confidence": 100,
+            "bot": true,
+            "id": "144924"
+        },
+        {
+            "user_id": "1339739590056267778",
+            "confidence": 100,
+            "bot": true,
+            "id": "144925"
+        },
+        {
+            "user_id": "983166790166614016",
+            "confidence": 100,
+            "bot": true,
+            "id": "144926"
+        },
+        {
+            "user_id": "1358558131920523268",
+            "confidence": 100,
+            "bot": true,
+            "id": "144927"
+        },
+        {
+            "user_id": "724593263391416320",
+            "confidence": 100,
+            "bot": true,
+            "id": "144928"
+        },
+        {
+            "user_id": "14337094",
+            "confidence": 100,
+            "bot": true,
+            "id": "144929"
+        },
+        {
+            "user_id": "1684739383856074752",
+            "confidence": 100,
+            "bot": true,
+            "id": "144930"
+        },
+        {
+            "user_id": "350529591",
+            "confidence": 100,
+            "bot": true,
+            "id": "144931"
+        },
+        {
+            "user_id": "902607135892271104",
+            "confidence": 100,
+            "bot": true,
+            "id": "144932"
+        },
+        {
+            "user_id": "245387889",
+            "confidence": 100,
+            "bot": true,
+            "id": "144933"
+        },
+        {
+            "user_id": "15951472",
+            "confidence": 100,
+            "bot": true,
+            "id": "144934"
+        },
+        {
+            "user_id": "817812811250356225",
+            "confidence": 100,
+            "bot": true,
+            "id": "144935"
+        },
+        {
+            "user_id": "1005472332058644483",
+            "confidence": 100,
+            "bot": true,
+            "id": "144936"
+        },
+        {
+            "user_id": "1377437080117260291",
+            "confidence": 100,
+            "bot": true,
+            "id": "144937"
+        },
+        {
+            "user_id": "43418723",
+            "confidence": 100,
+            "bot": true,
+            "id": "144938"
+        },
+        {
+            "user_id": "1458454411215134722",
+            "confidence": 100,
+            "bot": true,
+            "id": "144939"
+        },
+        {
+            "user_id": "2396233976",
+            "confidence": 100,
+            "bot": true,
+            "id": "144940"
+        },
+        {
+            "user_id": "844334173095710720",
+            "confidence": 100,
+            "bot": true,
+            "id": "144941"
+        },
+        {
+            "user_id": "529700406",
+            "confidence": 100,
+            "bot": true,
+            "id": "144942"
+        },
+        {
+            "user_id": "338053822",
+            "confidence": 100,
+            "bot": true,
+            "id": "144943"
+        },
+        {
+            "user_id": "1676658735731580940",
+            "confidence": 100,
+            "bot": true,
+            "id": "144944"
+        },
+        {
+            "user_id": "1296137278256033793",
+            "confidence": 100,
+            "bot": true,
+            "id": "144945"
+        },
+        {
+            "user_id": "1462970345153908738",
+            "confidence": 100,
+            "bot": true,
+            "id": "144946"
+        },
+        {
+            "user_id": "1626047775996620801",
+            "confidence": 100,
+            "bot": true,
+            "id": "144947"
+        },
+        {
+            "user_id": "1670792451768852480",
+            "confidence": 100,
+            "bot": true,
+            "id": "144948"
+        },
+        {
+            "user_id": "1519034611380150273",
+            "confidence": 100,
+            "bot": true,
+            "id": "144949"
+        },
+        {
+            "user_id": "817905073175089161",
+            "confidence": 100,
+            "bot": true,
+            "id": "144950"
+        },
+        {
+            "user_id": "1705644990230138881",
+            "confidence": 100,
+            "bot": true,
+            "id": "144951"
+        },
+        {
+            "user_id": "235355846",
+            "confidence": 100,
+            "bot": true,
+            "id": "144952"
+        },
+        {
+            "user_id": "1891690165",
+            "confidence": 100,
+            "bot": true,
+            "id": "144953"
+        },
+        {
+            "user_id": "1443039436967604226",
+            "confidence": 100,
+            "bot": true,
+            "id": "144954"
+        },
+        {
+            "user_id": "1307907015532929025",
+            "confidence": 100,
+            "bot": true,
+            "id": "144955"
+        },
+        {
+            "user_id": "1304616610431262721",
+            "confidence": 100,
+            "bot": true,
+            "id": "144956"
+        },
+        {
+            "user_id": "1674903968403816448",
+            "confidence": 100,
+            "bot": true,
+            "id": "144957"
+        },
+        {
+            "user_id": "534891430",
+            "confidence": 100,
+            "bot": true,
+            "id": "144958"
+        },
+        {
+            "user_id": "1316674861658329088",
+            "confidence": 100,
+            "bot": true,
+            "id": "144959"
+        },
+        {
+            "user_id": "330043420",
+            "confidence": 100,
+            "bot": true,
+            "id": "144960"
+        },
+        {
+            "user_id": "1257429748881506306",
+            "confidence": 100,
+            "bot": true,
+            "id": "144961"
+        },
+        {
+            "user_id": "24432122",
+            "confidence": 100,
+            "bot": true,
+            "id": "144962"
+        },
+        {
+            "user_id": "1281638027190730754",
+            "confidence": 100,
+            "bot": true,
+            "id": "144963"
+        },
+        {
+            "user_id": "4865217867",
+            "confidence": 100,
+            "bot": true,
+            "id": "144964"
+        },
+        {
+            "user_id": "1379255183423774720",
+            "confidence": 100,
+            "bot": true,
+            "id": "144965"
+        },
+        {
+            "user_id": "1649827110591287296",
+            "confidence": 100,
+            "bot": true,
+            "id": "144966"
+        },
+        {
+            "user_id": "1614063066546569217",
+            "confidence": 100,
+            "bot": true,
+            "id": "144967"
+        },
+        {
+            "user_id": "1728468044043763712",
+            "confidence": 100,
+            "bot": true,
+            "id": "144968"
+        },
+        {
+            "user_id": "1532327886702755840",
+            "confidence": 100,
+            "bot": true,
+            "id": "144969"
+        },
+        {
+            "user_id": "740354398723919872",
+            "confidence": 100,
+            "bot": true,
+            "id": "144970"
+        },
+        {
+            "user_id": "179203831",
+            "confidence": 100,
+            "bot": true,
+            "id": "144971"
+        },
+        {
+            "user_id": "1610176923082031105",
+            "confidence": 100,
+            "bot": true,
+            "id": "144972"
+        },
+        {
+            "user_id": "1510372110379540482",
+            "confidence": 100,
+            "bot": true,
+            "id": "144973"
+        },
+        {
+            "user_id": "24429011",
+            "confidence": 100,
+            "bot": true,
+            "id": "144974"
+        },
+        {
+            "user_id": "1158137840884224002",
+            "confidence": 100,
+            "bot": true,
+            "id": "144975"
+        },
+        {
+            "user_id": "1346643216284540929",
+            "confidence": 100,
+            "bot": true,
+            "id": "144976"
+        },
+        {
+            "user_id": "1658461745894006786",
+            "confidence": 100,
+            "bot": true,
+            "id": "144977"
+        },
+        {
+            "user_id": "2429922315",
+            "confidence": 100,
+            "bot": true,
+            "id": "144978"
+        },
+        {
+            "user_id": "3068791661",
+            "confidence": 100,
+            "bot": true,
+            "id": "144979"
+        },
+        {
+            "user_id": "1474536515191648256",
+            "confidence": 100,
+            "bot": true,
+            "id": "144980"
+        },
+        {
+            "user_id": "1006712667992657920",
+            "confidence": 100,
+            "bot": true,
+            "id": "144981"
+        },
+        {
+            "user_id": "2242983084",
+            "confidence": 100,
+            "bot": true,
+            "id": "144982"
+        },
+        {
+            "user_id": "15123098",
+            "confidence": 100,
+            "bot": true,
+            "id": "144983"
+        },
+        {
+            "user_id": "1076011658357735424",
+            "confidence": 100,
+            "bot": true,
+            "id": "144984"
+        },
+        {
+            "user_id": "4081732334",
+            "confidence": 100,
+            "bot": true,
+            "id": "144985"
+        },
+        {
+            "user_id": "843646505714032642",
+            "confidence": 100,
+            "bot": true,
+            "id": "144986"
+        },
+        {
+            "user_id": "18785182",
+            "confidence": 100,
+            "bot": true,
+            "id": "144987"
+        },
+        {
+            "user_id": "1441385954946736131",
+            "confidence": 100,
+            "bot": true,
+            "id": "144988"
+        },
+        {
+            "user_id": "91654047",
+            "confidence": 100,
+            "bot": true,
+            "id": "144989"
+        },
+        {
+            "user_id": "1730002237349298176",
+            "confidence": 100,
+            "bot": true,
+            "id": "144990"
+        },
+        {
+            "user_id": "104087141",
+            "confidence": 100,
+            "bot": true,
+            "id": "144991"
+        },
+        {
+            "user_id": "1706653891662639104",
+            "confidence": 100,
+            "bot": true,
+            "id": "144992"
+        },
+        {
+            "user_id": "1254174971028475909",
+            "confidence": 100,
+            "bot": true,
+            "id": "144993"
+        },
+        {
+            "user_id": "1519398998750248965",
+            "confidence": 100,
+            "bot": true,
+            "id": "144994"
+        },
+        {
+            "user_id": "978515994862804992",
+            "confidence": 100,
+            "bot": true,
+            "id": "144995"
+        },
+        {
+            "user_id": "1652500158213656576",
+            "confidence": 100,
+            "bot": true,
+            "id": "144996"
+        },
+        {
+            "user_id": "3792739280",
+            "confidence": 100,
+            "bot": true,
+            "id": "144997"
+        },
+        {
+            "user_id": "1044994763446013953",
+            "confidence": 100,
+            "bot": true,
+            "id": "144998"
+        },
+        {
+            "user_id": "2577919941",
+            "confidence": 100,
+            "bot": true,
+            "id": "144999"
+        },
+        {
+            "user_id": "1336009249227464705",
+            "confidence": 100,
+            "bot": true,
+            "id": "145000"
+        },
+        {
+            "user_id": "3248516399",
+            "confidence": 100,
+            "bot": true,
+            "id": "145001"
+        },
+        {
+            "user_id": "1476071254406967297",
+            "confidence": 100,
+            "bot": true,
+            "id": "145002"
+        },
+        {
+            "user_id": "2896410101",
+            "confidence": 100,
+            "bot": true,
+            "id": "145003"
+        },
+        {
+            "user_id": "1423583845543124995",
+            "confidence": 100,
+            "bot": true,
+            "id": "145004"
+        },
+        {
+            "user_id": "972712861",
+            "confidence": 100,
+            "bot": true,
+            "id": "145005"
+        },
+        {
+            "user_id": "1570703113",
+            "confidence": 100,
+            "bot": true,
+            "id": "145006"
+        },
+        {
+            "user_id": "269040391",
+            "confidence": 100,
+            "bot": true,
+            "id": "145007"
+        },
+        {
+            "user_id": "1396827856580366338",
+            "confidence": 100,
+            "bot": true,
+            "id": "145008"
+        },
+        {
+            "user_id": "1626023799995916289",
+            "confidence": 100,
+            "bot": true,
+            "id": "145009"
+        },
+        {
+            "user_id": "829180188558761984",
+            "confidence": 100,
+            "bot": true,
+            "id": "145010"
+        },
+        {
+            "user_id": "1601993503734747137",
+            "confidence": 100,
+            "bot": true,
+            "id": "145011"
+        },
+        {
+            "user_id": "28931687",
+            "confidence": 100,
+            "bot": true,
+            "id": "145012"
+        },
+        {
+            "user_id": "1577703977654820866",
+            "confidence": 100,
+            "bot": true,
+            "id": "145013"
+        },
+        {
+            "user_id": "1510336398980632578",
+            "confidence": 100,
+            "bot": true,
+            "id": "145014"
+        },
+        {
+            "user_id": "1692518849696935937",
+            "confidence": 100,
+            "bot": true,
+            "id": "145015"
+        },
+        {
+            "user_id": "867500087978606596",
+            "confidence": 100,
+            "bot": true,
+            "id": "145016"
+        },
+        {
+            "user_id": "1476396350526963712",
+            "confidence": 100,
+            "bot": true,
+            "id": "145017"
+        },
+        {
+            "user_id": "2320104486",
+            "confidence": 100,
+            "bot": true,
+            "id": "145018"
+        },
+        {
+            "user_id": "1702649517278171136",
+            "confidence": 100,
+            "bot": true,
+            "id": "145019"
+        },
+        {
+            "user_id": "1433548124019060744",
+            "confidence": 100,
+            "bot": true,
+            "id": "145020"
+        },
+        {
+            "user_id": "1416274953557749766",
+            "confidence": 100,
+            "bot": true,
+            "id": "145021"
+        },
+        {
+            "user_id": "92209055",
+            "confidence": 100,
+            "bot": true,
+            "id": "145022"
+        },
+        {
+            "user_id": "1738970285963988992",
+            "confidence": 100,
+            "bot": true,
+            "id": "145023"
+        },
+        {
+            "user_id": "35223867",
+            "confidence": 100,
+            "bot": true,
+            "id": "145024"
+        },
+        {
+            "user_id": "1166127768704339970",
+            "confidence": 100,
+            "bot": true,
+            "id": "145025"
+        },
+        {
+            "user_id": "1648055209095057409",
+            "confidence": 100,
+            "bot": true,
+            "id": "145026"
+        },
+        {
+            "user_id": "1563777177941852161",
+            "confidence": 100,
+            "bot": true,
+            "id": "145027"
+        },
+        {
+            "user_id": "1412231346882293762",
+            "confidence": 100,
+            "bot": true,
+            "id": "145028"
+        },
+        {
+            "user_id": "1091362195810762757",
+            "confidence": 100,
+            "bot": true,
+            "id": "145029"
+        },
+        {
+            "user_id": "1319561166",
+            "confidence": 100,
+            "bot": true,
+            "id": "145030"
+        },
+        {
+            "user_id": "1216104019472547843",
+            "confidence": 100,
+            "bot": true,
+            "id": "145031"
+        },
+        {
+            "user_id": "1586808996811444228",
+            "confidence": 100,
+            "bot": true,
+            "id": "145032"
+        },
+        {
+            "user_id": "1474878404356886534",
+            "confidence": 100,
+            "bot": true,
+            "id": "145033"
+        },
+        {
+            "user_id": "2908620859",
+            "confidence": 100,
+            "bot": true,
+            "id": "145034"
+        },
+        {
+            "user_id": "1718401105611411456",
+            "confidence": 100,
+            "bot": true,
+            "id": "145035"
+        },
+        {
+            "user_id": "1619900774112452608",
+            "confidence": 100,
+            "bot": true,
+            "id": "145036"
+        },
+        {
+            "user_id": "1488218959446953984",
+            "confidence": 100,
+            "bot": true,
+            "id": "145037"
+        },
+        {
+            "user_id": "1622848416589004802",
+            "confidence": 100,
+            "bot": true,
+            "id": "145038"
+        },
+        {
+            "user_id": "1689362253462585345",
+            "confidence": 100,
+            "bot": true,
+            "id": "145039"
+        },
+        {
+            "user_id": "1755068904240517120",
+            "confidence": 100,
+            "bot": true,
+            "id": "145040"
+        },
+        {
+            "user_id": "1767305159497986049",
+            "confidence": 100,
+            "bot": true,
+            "id": "145041"
+        },
+        {
+            "user_id": "1340431342090268674",
+            "confidence": 100,
+            "bot": true,
+            "id": "145042"
+        },
+        {
+            "user_id": "1580047845893308417",
+            "confidence": 100,
+            "bot": true,
+            "id": "145043"
+        },
+        {
+            "user_id": "411623384",
+            "confidence": 100,
+            "bot": true,
+            "id": "145044"
+        },
+        {
+            "user_id": "1164350858852573184",
+            "confidence": 100,
+            "bot": true,
+            "id": "145045"
+        },
+        {
+            "user_id": "50224091",
+            "confidence": 100,
+            "bot": true,
+            "id": "145046"
+        },
+        {
+            "user_id": "928782848416346112",
+            "confidence": 100,
+            "bot": true,
+            "id": "145047"
+        },
+        {
+            "user_id": "138987607",
+            "confidence": 100,
+            "bot": true,
+            "id": "145048"
+        },
+        {
+            "user_id": "1538721475246448640",
+            "confidence": 100,
+            "bot": true,
+            "id": "145049"
+        },
+        {
+            "user_id": "1581274628856877057",
+            "confidence": 100,
+            "bot": true,
+            "id": "145050"
+        },
+        {
+            "user_id": "1141314823524933632",
+            "confidence": 100,
+            "bot": true,
+            "id": "145051"
+        },
+        {
+            "user_id": "9006272",
+            "confidence": 100,
+            "bot": true,
+            "id": "145052"
+        },
+        {
+            "user_id": "206416311",
+            "confidence": 100,
+            "bot": true,
+            "id": "145053"
+        },
+        {
+            "user_id": "1525964682766471169",
+            "confidence": 100,
+            "bot": true,
+            "id": "145054"
+        },
+        {
+            "user_id": "1541942010420011012",
+            "confidence": 100,
+            "bot": true,
+            "id": "145055"
+        },
+        {
+            "user_id": "29974662",
+            "confidence": 100,
+            "bot": true,
+            "id": "145056"
+        },
+        {
+            "user_id": "1762478441448853504",
+            "confidence": 100,
+            "bot": true,
+            "id": "145057"
+        },
+        {
+            "user_id": "1187892407360094208",
+            "confidence": 100,
+            "bot": true,
+            "id": "145058"
+        },
+        {
+            "user_id": "1675242584770322432",
+            "confidence": 100,
+            "bot": true,
+            "id": "145059"
+        },
+        {
+            "user_id": "1331876365923127296",
+            "confidence": 100,
+            "bot": true,
+            "id": "145060"
+        },
+        {
+            "user_id": "156656889",
+            "confidence": 100,
+            "bot": true,
+            "id": "145061"
+        },
+        {
+            "user_id": "202074521",
+            "confidence": 100,
+            "bot": true,
+            "id": "145062"
+        },
+        {
+            "user_id": "1101562313298059264",
+            "confidence": 100,
+            "bot": true,
+            "id": "145063"
+        },
+        {
+            "user_id": "1711335544314114048",
+            "confidence": 100,
+            "bot": true,
+            "id": "145064"
+        },
+        {
+            "user_id": "1295173753366810626",
+            "confidence": 100,
+            "bot": true,
+            "id": "145065"
+        },
+        {
+            "user_id": "1258498303681060866",
+            "confidence": 100,
+            "bot": true,
+            "id": "145066"
+        },
+        {
+            "user_id": "1708613105050173440",
+            "confidence": 100,
+            "bot": true,
+            "id": "145067"
+        },
+        {
+            "user_id": "317424950",
+            "confidence": 100,
+            "bot": true,
+            "id": "145068"
+        },
+        {
+            "user_id": "770756081547112448",
+            "confidence": 100,
+            "bot": true,
+            "id": "145069"
+        },
+        {
+            "user_id": "1182023789414092801",
+            "confidence": 100,
+            "bot": true,
+            "id": "145070"
+        },
+        {
+            "user_id": "1577921386391248896",
+            "confidence": 100,
+            "bot": true,
+            "id": "145071"
+        },
+        {
+            "user_id": "1644280482253754369",
+            "confidence": 100,
+            "bot": true,
+            "id": "145072"
+        },
+        {
+            "user_id": "1479895336143532033",
+            "confidence": 100,
+            "bot": true,
+            "id": "145073"
+        },
+        {
+            "user_id": "1388672759648067585",
+            "confidence": 100,
+            "bot": true,
+            "id": "145074"
+        },
+        {
+            "user_id": "1117471821257949185",
+            "confidence": 100,
+            "bot": true,
+            "id": "145075"
+        },
+        {
+            "user_id": "1645838966438887426",
+            "confidence": 100,
+            "bot": true,
+            "id": "145076"
+        },
+        {
+            "user_id": "1497252726060761090",
+            "confidence": 100,
+            "bot": true,
+            "id": "145077"
+        },
+        {
+            "user_id": "1187050912893865984",
+            "confidence": 100,
+            "bot": true,
+            "id": "145078"
+        },
+        {
+            "user_id": "1742566859424030720",
+            "confidence": 100,
+            "bot": true,
+            "id": "145079"
+        },
+        {
+            "user_id": "722876348541333504",
+            "confidence": 100,
+            "bot": true,
+            "id": "145080"
+        },
+        {
+            "user_id": "1271509388319170562",
+            "confidence": 100,
+            "bot": true,
+            "id": "145081"
+        },
+        {
+            "user_id": "1524093351292805123",
+            "confidence": 100,
+            "bot": true,
+            "id": "145082"
+        },
+        {
+            "user_id": "1405031613340307457",
+            "confidence": 100,
+            "bot": true,
+            "id": "145083"
+        },
+        {
+            "user_id": "865881053277417473",
+            "confidence": 100,
+            "bot": true,
+            "id": "145084"
+        },
+        {
+            "user_id": "90921596",
+            "confidence": 100,
+            "bot": true,
+            "id": "145085"
+        },
+        {
+            "user_id": "1299512006198919173",
+            "confidence": 100,
+            "bot": true,
+            "id": "145086"
+        },
+        {
+            "user_id": "518136512",
+            "confidence": 100,
+            "bot": true,
+            "id": "145087"
+        },
+        {
+            "user_id": "1208941762003128320",
+            "confidence": 100,
+            "bot": true,
+            "id": "145088"
+        },
+        {
+            "user_id": "74797854",
+            "confidence": 100,
+            "bot": true,
+            "id": "145089"
+        },
+        {
+            "user_id": "1586706031098347520",
+            "confidence": 100,
+            "bot": true,
+            "id": "145090"
+        },
+        {
+            "user_id": "1113559174879809538",
+            "confidence": 100,
+            "bot": true,
+            "id": "145091"
+        },
+        {
+            "user_id": "1760784829883305984",
+            "confidence": 100,
+            "bot": true,
+            "id": "145092"
+        },
+        {
+            "user_id": "735277699",
+            "confidence": 100,
+            "bot": true,
+            "id": "145093"
+        },
+        {
+            "user_id": "864968019767943169",
+            "confidence": 100,
+            "bot": true,
+            "id": "145094"
+        },
+        {
+            "user_id": "1408145237713772547",
+            "confidence": 100,
+            "bot": true,
+            "id": "145095"
+        },
+        {
+            "user_id": "918210860652343296",
+            "confidence": 100,
+            "bot": true,
+            "id": "145096"
+        },
+        {
+            "user_id": "1469049923383480324",
+            "confidence": 100,
+            "bot": true,
+            "id": "145097"
+        },
+        {
+            "user_id": "1593992855361552384",
+            "confidence": 100,
+            "bot": true,
+            "id": "145098"
+        },
+        {
+            "user_id": "1620002406716116992",
+            "confidence": 100,
+            "bot": true,
+            "id": "145099"
+        },
+        {
+            "user_id": "43885373",
+            "confidence": 100,
+            "bot": true,
+            "id": "145100"
+        },
+        {
+            "user_id": "1559975840699629570",
+            "confidence": 100,
+            "bot": true,
+            "id": "145101"
+        },
+        {
+            "user_id": "1469269926514987010",
+            "confidence": 100,
+            "bot": true,
+            "id": "145102"
+        },
+        {
+            "user_id": "1750625678372855808",
+            "confidence": 100,
+            "bot": true,
+            "id": "145103"
+        },
+        {
+            "user_id": "1586433956982972416",
+            "confidence": 100,
+            "bot": true,
+            "id": "145104"
+        },
+        {
+            "user_id": "1579183463978176512",
+            "confidence": 100,
+            "bot": true,
+            "id": "145105"
+        },
+        {
+            "user_id": "1656324921495019520",
+            "confidence": 100,
+            "bot": true,
+            "id": "145106"
+        },
+        {
+            "user_id": "1705638694776954880",
+            "confidence": 100,
+            "bot": true,
+            "id": "145107"
+        },
+        {
+            "user_id": "1155831962973736961",
+            "confidence": 100,
+            "bot": true,
+            "id": "145108"
+        },
+        {
+            "user_id": "1295130057481035778",
+            "confidence": 100,
+            "bot": true,
+            "id": "145109"
+        },
+        {
+            "user_id": "1619987120353058816",
+            "confidence": 100,
+            "bot": true,
+            "id": "145110"
+        },
+        {
+            "user_id": "893927104605294592",
+            "confidence": 100,
+            "bot": true,
+            "id": "145111"
+        },
+        {
+            "user_id": "1758256305767350272",
+            "confidence": 100,
+            "bot": true,
+            "id": "145112"
+        },
+        {
+            "user_id": "4836321909",
+            "confidence": 100,
+            "bot": true,
+            "id": "145113"
+        },
+        {
+            "user_id": "16593343",
+            "confidence": 100,
+            "bot": true,
+            "id": "145114"
+        },
+        {
+            "user_id": "1250618478723301376",
+            "confidence": 100,
+            "bot": true,
+            "id": "145115"
+        },
+        {
+            "user_id": "100693091",
+            "confidence": 100,
+            "bot": true,
+            "id": "145116"
+        },
+        {
+            "user_id": "1418740062364205060",
+            "confidence": 100,
+            "bot": true,
+            "id": "145117"
+        },
+        {
+            "user_id": "118101086",
+            "confidence": 100,
+            "bot": true,
+            "id": "145118"
+        },
+        {
+            "user_id": "1584356043601108993",
+            "confidence": 100,
+            "bot": true,
+            "id": "145119"
+        },
+        {
+            "user_id": "1613393726",
+            "confidence": 100,
+            "bot": true,
+            "id": "145120"
+        },
+        {
+            "user_id": "1232102912769380353",
+            "confidence": 100,
+            "bot": true,
+            "id": "145121"
+        },
+        {
+            "user_id": "212097457",
+            "confidence": 100,
+            "bot": true,
+            "id": "145122"
+        },
+        {
+            "user_id": "1116736918354419713",
+            "confidence": 100,
+            "bot": true,
+            "id": "145123"
+        },
+        {
+            "user_id": "848159978",
+            "confidence": 100,
+            "bot": true,
+            "id": "145124"
+        },
+        {
+            "user_id": "1559271196067352577",
+            "confidence": 100,
+            "bot": true,
+            "id": "145125"
+        },
+        {
+            "user_id": "164413826",
+            "confidence": 100,
+            "bot": true,
+            "id": "145126"
+        },
+        {
+            "user_id": "1741662589195530240",
+            "confidence": 100,
+            "bot": true,
+            "id": "145127"
+        },
+        {
+            "user_id": "45447880",
+            "confidence": 100,
+            "bot": true,
+            "id": "145128"
+        },
+        {
+            "user_id": "853583745399521280",
+            "confidence": 100,
+            "bot": true,
+            "id": "145129"
+        },
+        {
+            "user_id": "1741663753324601344",
+            "confidence": 100,
+            "bot": true,
+            "id": "145130"
+        },
+        {
+            "user_id": "1519784134582882306",
+            "confidence": 100,
+            "bot": true,
+            "id": "145131"
+        },
+        {
+            "user_id": "1601177231027589120",
+            "confidence": 100,
+            "bot": true,
+            "id": "145132"
+        },
+        {
+            "user_id": "1488373925188931584",
+            "confidence": 100,
+            "bot": true,
+            "id": "145133"
+        },
+        {
+            "user_id": "1356991341440417802",
+            "confidence": 100,
+            "bot": true,
+            "id": "145134"
+        },
+        {
+            "user_id": "1741664146335408128",
+            "confidence": 100,
+            "bot": true,
+            "id": "145135"
+        },
+        {
+            "user_id": "1741663763755892736",
+            "confidence": 100,
+            "bot": true,
+            "id": "145136"
+        },
+        {
+            "user_id": "2940931506",
+            "confidence": 100,
+            "bot": true,
+            "id": "145137"
+        },
+        {
+            "user_id": "1070534805593427968",
+            "confidence": 100,
+            "bot": true,
+            "id": "145138"
+        },
+        {
+            "user_id": "1179919255",
+            "confidence": 100,
+            "bot": true,
+            "id": "145139"
+        },
+        {
+            "user_id": "971922139241762817",
+            "confidence": 100,
+            "bot": true,
+            "id": "145140"
+        },
+        {
+            "user_id": "1741664691813027840",
+            "confidence": 100,
+            "bot": true,
+            "id": "145141"
+        },
+        {
+            "user_id": "1741659798490501120",
+            "confidence": 100,
+            "bot": true,
+            "id": "145142"
+        },
+        {
+            "user_id": "28165505",
+            "confidence": 100,
+            "bot": true,
+            "id": "145143"
+        },
+        {
+            "user_id": "1170839717623074816",
+            "confidence": 100,
+            "bot": true,
+            "id": "145144"
+        },
+        {
+            "user_id": "1754935473120710656",
+            "confidence": 100,
+            "bot": true,
+            "id": "145145"
+        },
+        {
+            "user_id": "1177846197794398209",
+            "confidence": 100,
+            "bot": true,
+            "id": "145146"
+        },
+        {
+            "user_id": "161820231",
+            "confidence": 100,
+            "bot": true,
+            "id": "145147"
+        },
+        {
+            "user_id": "1304973150208180225",
+            "confidence": 100,
+            "bot": true,
+            "id": "145148"
+        },
+        {
+            "user_id": "1268082098545610752",
+            "confidence": 100,
+            "bot": true,
+            "id": "145149"
+        },
+        {
+            "user_id": "1114169394714808328",
+            "confidence": 100,
+            "bot": true,
+            "id": "145150"
+        },
+        {
+            "user_id": "1567547295922790400",
+            "confidence": 100,
+            "bot": true,
+            "id": "145151"
+        },
+        {
+            "user_id": "1195050229931753473",
+            "confidence": 100,
+            "bot": true,
+            "id": "145152"
+        },
+        {
+            "user_id": "699421547216379904",
+            "confidence": 100,
+            "bot": true,
+            "id": "145153"
+        },
+        {
+            "user_id": "1016129680867561472",
+            "confidence": 100,
+            "bot": true,
+            "id": "145154"
+        },
+        {
+            "user_id": "1022689441",
+            "confidence": 100,
+            "bot": true,
+            "id": "145155"
+        },
+        {
+            "user_id": "25399317",
+            "confidence": 100,
+            "bot": true,
+            "id": "145156"
+        },
+        {
+            "user_id": "1578875876736995329",
+            "confidence": 100,
+            "bot": true,
+            "id": "145157"
+        },
+        {
+            "user_id": "1053027631585812480",
+            "confidence": 100,
+            "bot": true,
+            "id": "145158"
+        },
+        {
+            "user_id": "1534842872515526656",
+            "confidence": 100,
+            "bot": true,
+            "id": "145159"
+        },
+        {
+            "user_id": "279097104",
+            "confidence": 100,
+            "bot": true,
+            "id": "145160"
+        },
+        {
+            "user_id": "1608216810104537094",
+            "confidence": 100,
+            "bot": true,
+            "id": "145161"
+        },
+        {
+            "user_id": "1449565654626054150",
+            "confidence": 100,
+            "bot": true,
+            "id": "145162"
+        },
+        {
+            "user_id": "1746580935582367744",
+            "confidence": 100,
+            "bot": true,
+            "id": "145163"
+        },
+        {
+            "user_id": "991781272598073351",
+            "confidence": 100,
+            "bot": true,
+            "id": "145164"
+        },
+        {
+            "user_id": "2966700309",
+            "confidence": 100,
+            "bot": true,
+            "id": "145165"
+        },
+        {
+            "user_id": "1491005570924658694",
+            "confidence": 100,
+            "bot": true,
+            "id": "145166"
+        },
+        {
+            "user_id": "1706860297481502720",
+            "confidence": 100,
+            "bot": true,
+            "id": "145167"
+        },
+        {
+            "user_id": "985392865693102080",
+            "confidence": 100,
+            "bot": true,
+            "id": "145168"
+        },
+        {
+            "user_id": "1315013377",
+            "confidence": 100,
+            "bot": true,
+            "id": "145169"
+        },
+        {
+            "user_id": "61830880",
+            "confidence": 100,
+            "bot": true,
+            "id": "145170"
+        },
+        {
+            "user_id": "801520313246699520",
+            "confidence": 100,
+            "bot": true,
+            "id": "145171"
+        },
+        {
+            "user_id": "1288180766552272897",
+            "confidence": 100,
+            "bot": true,
+            "id": "145172"
+        },
+        {
+            "user_id": "1763362787634429952",
+            "confidence": 100,
+            "bot": true,
+            "id": "145173"
+        },
+        {
+            "user_id": "1612306399538675712",
+            "confidence": 100,
+            "bot": true,
+            "id": "145174"
+        },
+        {
+            "user_id": "1613234512468807680",
+            "confidence": 100,
+            "bot": true,
+            "id": "145175"
+        },
+        {
+            "user_id": "1631714796939665409",
+            "confidence": 100,
+            "bot": true,
+            "id": "145176"
+        },
+        {
+            "user_id": "1449281739076087810",
+            "confidence": 100,
+            "bot": true,
+            "id": "145177"
+        },
+        {
+            "user_id": "1144398592653877254",
+            "confidence": 100,
+            "bot": true,
+            "id": "145178"
+        },
+        {
+            "user_id": "1765809260783423488",
+            "confidence": 100,
+            "bot": true,
+            "id": "145179"
+        },
+        {
+            "user_id": "1422559055390851079",
+            "confidence": 100,
+            "bot": true,
+            "id": "145180"
+        },
+        {
+            "user_id": "759682516181581824",
+            "confidence": 100,
+            "bot": true,
+            "id": "145181"
+        },
+        {
+            "user_id": "606978122",
+            "confidence": 100,
+            "bot": true,
+            "id": "145182"
+        },
+        {
+            "user_id": "1632477780012064771",
+            "confidence": 100,
+            "bot": true,
+            "id": "145183"
+        },
+        {
+            "user_id": "1291189149681291269",
+            "confidence": 100,
+            "bot": true,
+            "id": "145184"
+        },
+        {
+            "user_id": "1395488203327614980",
+            "confidence": 100,
+            "bot": true,
+            "id": "145185"
+        },
+        {
+            "user_id": "1602742135438163971",
+            "confidence": 100,
+            "bot": true,
+            "id": "145186"
+        },
+        {
+            "user_id": "1307056836512747522",
+            "confidence": 100,
+            "bot": true,
+            "id": "145187"
+        },
+        {
+            "user_id": "932149663892848640",
+            "confidence": 100,
+            "bot": true,
+            "id": "145188"
+        },
+        {
+            "user_id": "307614242",
+            "confidence": 100,
+            "bot": true,
+            "id": "145189"
+        },
+        {
+            "user_id": "386328411",
+            "confidence": 100,
+            "bot": true,
+            "id": "145190"
+        },
+        {
+            "user_id": "1422319921493598209",
+            "confidence": 100,
+            "bot": true,
+            "id": "145191"
+        },
+        {
+            "user_id": "1697006424247648256",
+            "confidence": 100,
+            "bot": true,
+            "id": "145192"
+        },
+        {
+            "user_id": "859854224074711041",
+            "confidence": 100,
+            "bot": true,
+            "id": "145193"
+        },
+        {
+            "user_id": "3642869895",
+            "confidence": 100,
+            "bot": true,
+            "id": "145194"
+        },
+        {
+            "user_id": "39698164",
+            "confidence": 100,
+            "bot": true,
+            "id": "145195"
+        },
+        {
+            "user_id": "1769175354218848256",
+            "confidence": 100,
+            "bot": true,
+            "id": "145196"
+        },
+        {
+            "user_id": "1221617488825372672",
+            "confidence": 100,
+            "bot": true,
+            "id": "145197"
+        },
+        {
+            "user_id": "1758023560722014208",
+            "confidence": 100,
+            "bot": true,
+            "id": "145198"
+        },
+        {
+            "user_id": "1384974531866025988",
+            "confidence": 100,
+            "bot": true,
+            "id": "145199"
+        },
+        {
+            "user_id": "3006613115",
+            "confidence": 100,
+            "bot": true,
+            "id": "145200"
+        },
+        {
+            "user_id": "1708857668553580544",
+            "confidence": 100,
+            "bot": true,
+            "id": "145201"
+        },
+        {
+            "user_id": "97276906",
+            "confidence": 100,
+            "bot": true,
+            "id": "145202"
+        },
+        {
+            "user_id": "1663637583442706432",
+            "confidence": 100,
+            "bot": true,
+            "id": "145203"
+        },
+        {
+            "user_id": "1597986272966057985",
+            "confidence": 100,
+            "bot": true,
+            "id": "145204"
+        },
+        {
+            "user_id": "758110205674610688",
+            "confidence": 100,
+            "bot": true,
+            "id": "145205"
+        },
+        {
+            "user_id": "1755229709627998208",
+            "confidence": 100,
+            "bot": true,
+            "id": "145206"
+        },
+        {
+            "user_id": "53189085",
+            "confidence": 100,
+            "bot": true,
+            "id": "145207"
+        },
+        {
+            "user_id": "1286473037878038529",
+            "confidence": 100,
+            "bot": true,
+            "id": "145208"
+        },
+        {
+            "user_id": "1335387626732392448",
+            "confidence": 100,
+            "bot": true,
+            "id": "145209"
+        },
+        {
+            "user_id": "1732595661806379008",
+            "confidence": 100,
+            "bot": true,
+            "id": "145210"
+        },
+        {
+            "user_id": "1732312000758239232",
+            "confidence": 100,
+            "bot": true,
+            "id": "145211"
+        },
+        {
+            "user_id": "1390626483903766528",
+            "confidence": 100,
+            "bot": true,
+            "id": "145212"
+        },
+        {
+            "user_id": "1733542480560230400",
+            "confidence": 100,
+            "bot": true,
+            "id": "145213"
+        },
+        {
+            "user_id": "1691480042864332800",
+            "confidence": 100,
+            "bot": true,
+            "id": "145214"
+        },
+        {
+            "user_id": "1963588872",
+            "confidence": 100,
+            "bot": true,
+            "id": "145215"
+        },
+        {
+            "user_id": "785567936",
+            "confidence": 100,
+            "bot": true,
+            "id": "145216"
+        },
+        {
+            "user_id": "1739406020512727040",
+            "confidence": 100,
+            "bot": true,
+            "id": "145217"
+        },
+        {
+            "user_id": "1646259756011515905",
+            "confidence": 100,
+            "bot": true,
+            "id": "145218"
+        },
+        {
+            "user_id": "1758376224781635584",
+            "confidence": 100,
+            "bot": true,
+            "id": "145219"
+        }
+    ],
+    "id": "352"
+}
