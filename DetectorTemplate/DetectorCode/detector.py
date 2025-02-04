@@ -13,10 +13,10 @@ class Detector(ADetector):
             user_posts = [post for post in session_data.posts]
             features = {"post_repetition" : self._check_post_repetition(user_posts)}
 
-            confidence = features["post_repetition"] * 100
-            is_bot = confidence > 40
+            confidence = int(features["post_repetition"] * 1000)
+            is_bot = confidence > 30
             
-            marked_account.append(DetectionMark(user_id=user['id'], confidence = confidence, bot=is_bot))
+            marked_account.append(DetectionMark(user_id=user['id'], confidence = 100, bot=is_bot))
 
         return marked_account
     
