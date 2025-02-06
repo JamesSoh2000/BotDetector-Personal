@@ -11,12 +11,12 @@ from api_requests import get_session_data, submit_detection
 import json
 
 # Competition Environment Variables
-# session_id = int(os.getenv('SESSION_ID'))
-# code_max_time = int(os.getenv('MAX_TIME'))
+session_id = int(os.getenv('SESSION_ID'))
+code_max_time = int(os.getenv('MAX_TIME'))
 
 # Testing Environment Variables
-session_id = 10
-code_max_time = 3601
+# session_id = 10
+# code_max_time = 3601
 
 logging.basicConfig(
     filename='run.log',
@@ -89,10 +89,12 @@ try:
     logging.info(f"Detection Submission repsonse status code: {submission_confirmation.status_code}")
     print("Detection Submission repsonse status code:", submission_confirmation.status_code)
     # print("Detection Submission response content:", json.dumps(submission_confirmation.json(), indent=4))
-    content_pydict = submission_confirmation.json() # Extract JSON content from the response object
-    response_json = json.dumps(content_pydict, indent=4)
-    with open('test_result.json', 'w') as f:
-        f.write(response_json)
+
+    # Test Environtment(writing new json file to see the result)
+    # content_pydict = submission_confirmation.json() # Extract JSON content from the response object
+    # response_json = json.dumps(content_pydict, indent=4)
+    # with open('test_result.json', 'w') as f:
+    #     f.write(response_json)
 
 
     signal.alarm(0)
